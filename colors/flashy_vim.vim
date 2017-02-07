@@ -13,8 +13,8 @@ let g:colors_name = "flashy_vim"
 
 hi IncSearch guifg=#000000 guibg=#bebebe guisp=#bebebe gui=NONE ctermfg=NONE ctermbg=7 cterm=NONE
 hi WildMenu guifg=#000000 guibg=#00ffff guisp=#00ffff gui=NONE ctermfg=NONE ctermbg=14 cterm=NONE
-"hi SignColumn -- no settings --
 hi ColorColumn guifg=#BB00BB guibg=#333333 guisp=#333333 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
+hi SignColumn guifg=#BB00BB guibg=#333333 guisp=#333333 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
 hi SpecialComment guifg=#BB00BB guibg=#000000 guisp=#000000 gui=NONE ctermfg=5 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#00BB00 guibg=#000000 guisp=#000000 gui=bold ctermfg=34 ctermbg=NONE cterm=bold
 hi Title guifg=#ff00ff guibg=NONE guisp=NONE gui=bold ctermfg=201 ctermbg=NONE cterm=bold
