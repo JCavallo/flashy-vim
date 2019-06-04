@@ -11,6 +11,7 @@ endif
 set t_Co=256
 let g:colors_name = "flashy_vim"
 
+hi NormalFloat guifg=#000000 guibg=#333333 guisp=#333333 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
 hi IncSearch guifg=#000000 guibg=#bebebe guisp=#bebebe gui=NONE ctermfg=NONE ctermbg=7 cterm=NONE
 hi WildMenu guifg=#000000 guibg=#00ffff guisp=#00ffff gui=NONE ctermfg=NONE ctermbg=14 cterm=NONE
 hi ColorColumn guifg=#BB00BB guibg=#333333 guisp=#333333 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
